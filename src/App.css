@@ -1,10 +1,10 @@
 .App {
   text-align: center;
-  padding: 300px 0;
+  padding: 180px 0;
   color: #15a6db;
   font-family: "Roboto Mono", monospace;
   font-weight: 100;
-  font-size: 50px;
+  font-size: 40px;
 }
 
 .App a {
@@ -19,7 +19,7 @@
   border-radius: 20%;
   background-color: #15262a;
   border: 3px solid #e5fdff;
-  font-size: 40px;
+  font-size: 30px;
   margin: 10px 20px;
   display: inline-block;
   text-align: center;
@@ -42,9 +42,9 @@ App .col-6 {
 }
 
 .App h1 {
-  font-size: 70px;
+  font-size: 60px;
 }
 
 .App h2 {
-  font-size: 50px;
+  font-size: 40px;
 }
