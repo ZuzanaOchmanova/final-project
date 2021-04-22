@@ -13,16 +13,25 @@
   font-family: "Roboto Mono", monospace;
   padding: 30px 10px;
   text-align: center;
+  transition: all 150ms ease-in-out;
 }
 
 .App .btn-primary {
   border-radius: 20%;
-  background-color: #15262a;
+  background-color: #030d17;
   border: 3px solid #e5fdff;
   font-size: 30px;
   margin: 10px 20px;
   display: inline-block;
   text-align: center;
+}
+
+.App .btn-primary:hover {
+  background: #1f9ec9;
+}
+
+.App a:hover {
+  color: #ccf8ff;
 }
 
 .App .container {
